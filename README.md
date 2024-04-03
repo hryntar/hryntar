@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Taras</h1>
-<h3 align="center">17-year-old front-end developer passionate about building visually appealing & user-friendly websites.</h3>
+<h3 align="center">Front-end developer passionate about building visually appealing & user-friendly websites.</h3>
 
 - 📫 How to reach me **hrynchuktt@gmail.com**
 
