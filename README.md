@@ -19,5 +19,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hryntar&show_icons=true&title_color=ffffff&text_color=ffffff&bg_color=000000&locale=en&layout=compact" alt="hryntar" /></p>
 
+<br/>
+
 <p align="left"><a href="https://u8views.com/github/hryntar"><img src="https://u8views.com/api/v1/github/profiles/107917877/views/day-week-month-total-count.svg"></a>
 </p>
